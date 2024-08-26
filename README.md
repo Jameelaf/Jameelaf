@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jameela Farveen, a 23 year old fresh graduate of cybersecurity.
+- 👋 Hi, I’m Jameela Farveen.
 - 👀 I’m interested in cybersecurity, ethical hacking, and everything related to penetration testing.
 - 🌱 I’m currently learning the essential skills needed for a fresh graduate in cybersecurity, focusing on hands-on projects and real-world applications.
 - 💞️ I’m looking to collaborate on open-source cybersecurity projects, ethical hacking challenges, and any opportunity to share knowledge and grow together.
